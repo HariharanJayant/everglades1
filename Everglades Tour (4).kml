@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="document">
+	<name>Everglades Tour</name>
+	<gx:CascadingStyle kml:id="__managed_style_0D5D8455793F5E2F922F_highlight">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0D5D8455793F5E2F922F_normal">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0D5D8455793F5E2F922F">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0D5D8455793F5E2F922F_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0D5D8455793F5E2F922F_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="5C3BDEEDBB000001">
+		<name>Bridgeland Highschool</name>
+		<description><![CDATA[<div><span style="color: rgb(31, 31, 31); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline;"><span class="font" style="font-family: &quot;Google Sans&quot;, Roboto, Arial, sans-serif;"><span class="size" style="font-size: 16px;">Bridgeland High School is a high school in the Bridgeland community in unincorporated Harris County, Texas, in the Houston metropolitan area.</span></span></span><br></div>]]></description>
+		<LookAt>
+			<longitude>-95.75897169999999</longitude>
+			<latitude>29.931314</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>900.9847107322005</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5D8455793F5E2F922F</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUU1YS9HelNJdHd5MkRhN3d5YnJvQnZaVHN5STFTa2l0UkJUV1Q0eFNJOEE4cHFqZEorUzFmYVFTRjlNRy90Uk5lRGludGMra1ZCUDVXcE9wTWlrUWMvU2pGbkh5QzZ0R0kwVlNxME1hcU5GZ1hsL1BIcFRwaHJUUWFyT00yemRZOU9hWTVWUHc3N1RPd05iYnkxc1Rhbzdxb29DbVkzNzRQeC94ckcxWG9BNXR3d04rbC93MzJSZU5BSW9Sc3poemVxd2xvQ215dlRmb3hpaEYremo3NmI0SHRnU3ZXckVkakNqSW1BSys1UHRXa3lOWkJ2dGpHSjEwcFpBeE10ejFXR1VMWm89">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4AE5a_GyzE6kpLuNw5Ypn8pSTyR-LPcweP1soQpAcS2RBYwWQkyLBls7hv3PFhvBuu4Lzcoz8yxCFz9H1PuC1fsul9R4a3TgQ_cLsnRwyaot3xSzqK6pUYHf80MIwhNIEKydYvJ3llTL8SMORiAaOz_Sv46IlapdC4HOqjlbAUCQyKbJmohA_Ag7hYEK-iLDeeiyn0B_orEP1XV1aCkte6z0_pVKcg4B11Ef2J_2PrZd6VMQn8q-ZjLGSnGTjfsHGIHBAAAN4WKjBzGqsAyiOQ131ukuPDiBKmxQR44weuw?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-95.75897169999999,29.931314,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="5C3BDEEDBB000002">
+		<name>Anhinga Trail</name>
+		<description><![CDATA[<div><span style="color: rgb(31, 31, 31); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline;"><span class="font" style="font-family:&quot;Google Sans&quot;, Roboto, Arial, sans-serif"><span class="size" style="font-size:14px">The Anhinga Trail is a short trail in the Everglades National Park. Located 4 miles from the park entrance, it starts at the Royal Palm Visitor Center.</span></span></span><br></div>]]></description>
+		<LookAt>
+			<longitude>-80.6071771</longitude>
+			<latitude>25.3826842</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>943.5019474801326</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5D8455793F5E2F922F</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUU1YS9HeXJiUGUrczd1bFJZdVppa2x0NVpTdFRxVzJjWGszdE9lKy82cU1kUXpHSDU3OTdrdVVXc0hqQk91aGxCSFphQTh2bkd3aHV4VVJVcXozQXp1R28vbzVTeHRLRDFSbmYyei95U01aQnlOYjZCK0N2Uk42bFNheWE1cDZnbDhNdWxzTGFOb1pOWHVUSTRwV2RHQVpIRnBvcjhHeWV1MDhPZlVlTlZBRXdxcHBSVmxsQkc4cVRYeEhmNUk2ZEc0M2xZcHFmVTFPVkhHUnR6dXhTR3VvQTVySXVhczIvZFRZZGMyNFhnRzdQaWNzVDV1endPSWJVQ0t6Q0hLVWJMbmovTE09">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4AE5a_GzBm3wUK1YvhBe-SukxDHfFx4bQD_KHP62bVXnJsZ1fBbJayAqLyEIjOJAdxjTqLjruPG7bBIx6NBiU1jE1jBDgsUKk9w3ITHh_RbPFzt7upBvBWA5zU6A-sTDj_SO6B5DMpS9U83l7aZIQmsVl35UK3KlIPflA5n8k2r4G5VdQ7hY2WWuW9Xu7dismUjuvLlKpYLj28F7lwtlIxDo_bSiHMPYR_wVl_aEsAut5ht1-FntOVsD6-q2aQrGrd-q9T5NVZ6BiA_u97yrzXd2S4GHNoGKiXwTQkhEDrg?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-80.6071771,25.3826842,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="5C3BDEEDBB000003">
+		<name>Airboat Tours Fort Lauderdale</name>
+		<description><![CDATA[<div>Tours that last for about 30 minutes on different rivers<br></div>]]></description>
+		<LookAt>
+			<longitude>-80.29700919999999</longitude>
+			<latitude>26.354253</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>934.9359927220687</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5D8455793F5E2F922F</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUU1YS9Hd2xJNmpmZWpGQkd3S0FGbGcwNFZ6bThiVWc1RU5lVHVneWNXWHlMODBUajlRVjczeWlzQnA0bE5qaVZTMUFDVFZpb1lwZ3JXRHpMdE5aOFFoR1ZIOHdmVG14eTNiTW1zMHpIcDh3K0MwR3IxSmRNTng5d1ovZjYxbFo2OSt5Z0daOFZEaXdPU1dUYmIzWWt5ZlFubklHREtTd1orc0RKekpUVkk5Rm9ZMFhiY2xPaVVmS1ZWdkRaUWhpb1gwS1NyZDdLM1hTbjVTRGhRZm9nOWlSc2RsTWhoOXFnTmhrMkdFNEJsdmUva0c4ZmgxN3ZDNmczQ2I2N1dEaVQ5V1BzdEE9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4AE5a_GxZ55B5lItitMgexJ-cKBsSMIxMp6YdRXZRuTDwS8InkI2LoBqFtb3ORMhJmI6c8TMy9pPBShvAjzY_O8j_gQYZ2ucB-Vi_OZeIWXIUJTSOiqFOCDvtNkNYFeR3H57c9x8gaECs4qhLFAG3AlesQ03ktjRv4rAeKO74BQWbYxnb2k9kUNOq_Xz0QhQVhWLua3PHBYtnJapUpTvltEvAhq9hbuC5PU5sbfatAWRFdPlogOnqd-xfJsbelveNhAAhFPL60WHBf15HfkoCIGUS_dWmeu1uymiYITViZA?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-80.29700919999999,26.354253,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="5C3BDEEDBB000004">
+		<name>Get Some Charters</name>
+		<description><![CDATA[<div>Get to fish while also see the amazing transition from different types of water environments.</div>]]></description>
+		<LookAt>
+			<longitude>-81.38666529999999</longitude>
+			<latitude>25.8585739</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>939.3419065446835</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5D8455793F5E2F922F</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUU1YS9HeWZvTkZOc09TcjUyZFRHKzRTRVpQdG9mRDV1YTAxRlBwMm9yQ2pHcHpsWlcrczQzdHQwVVB3c3U0YWNMQ3RndExoaGhPbUx3YlpYTkZsbTZvL1llS0RRcmdFY1JJMkUwUU9aTTF5V28wdlV5WXlsQWJiSVAzTERRaG9xYXB4MXJCbW1UWWI0K1VOQ0JlQm9jMERHRWdrSTBvT2JXaXdhSzFDeWY0a1R1NE1iZGgzTFZCcG1iMGt2Tkk4RVZWVzZyaWRUQUNFNWR5MU5Sb3lhZit3MXpsSTRLT2tYalErcm1mbmpVeXJOTktaMjBQU2NSUXMvOFhwajk2amFlT0FpT1k9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4AE5a_Gy1iQf8mh807_8QAnzCf14WfMwZswBvajjRcMdO-JXc9teXgd7U5Ur04kngv7b7fgo4ZHXUWnxRs_apau_PFwwQQfBR2OS45cCRI1kJ18JTEiqpCMqtE6bOYzYJEbUjD-9aEsBm7xpWI5vudpHdpWPiEmuFsKagcCFydwMeawL6eQ2fpqfp7LaPSpnSAdtM0gifyyZkAIjWgjIqjWptD2949YfbC9dpvhPDcNQSkyeZue2SYAeBPSQCy2dmT6Dgxt65S3tkhuiLMkSsB6EqUDUrteLNYW0P6dK3wg?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-81.38666529999999,25.8585739,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="5C3BDEEDBB000005">
+		<name>Everglades Adventures Kayak &amp; Eco Tours</name>
+		<description><![CDATA[<div>A Nine Mile Pond Loop in Flamingo. Takes about 2-4 hours.</div>]]></description>
+		<LookAt>
+			<longitude>-81.3838403</longitude>
+			<latitude>25.866322</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>939.2736072941615</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5D8455793F5E2F922F</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUU1YS9HeDIxTzlrTG85RUFLRk1TZVRkcG8xUUdMVC9GNko2c1VtRXRFblNCR2gxWG5xNTZxZmdRdm94QXVONHg3M0VLT1g0TENOQkRjM1JGTUowb2sxWTRiVU9udkpBVXo1SFdIdU1idHVqT21aSFcwZ2xiMDlNYjZUTlp5aVdSTko1akNFanFsbnd6NnNkUUNERVZ6NkhscU5TVnZsWTl6Wm5vU0ZnTEY1aDBRMU1RZTJESnAvUTRWZFEvaDM2YzFsdUlyME1MZHIyUEIxc3dnNldTQjV3VW0xYTNZRm82SGUyaEpmS0RiN3dkdkdMbys2ZUt0VmdhVHpxSVhjalFiSjJScFU9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4AE5a_GzmXHEVRRSJCHzB3hMjT_BMCXVQHET2EI5cg-B21BWyTgX8xaEg6h8I1K31_HuHoE5yF5MfR57I69ng0WpB5nk0zG9EbL8SM0PcTo9hoGudbVgXVxXARds8tPW8zC3oZN6FEN5ySDiA8OGuRqipjblc8u9_MvNscOZ6YD415MDPNLzmwRBrcq4ap24CECkczW-DymiqoPkyeaXixe-ESoOZg9cUmVqg8XoB1dthKGuDQDZ0Mcftkj_9ZSAuB8_Ax_xBHOhDRPfiMUhyuPh27TJFndoa_ERwoVKx6w?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-81.383844,25.86632239999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="5C3BDEEDBB000006">
+		<name>Off Trail Swamp Walking</name>
+		<description><![CDATA[<div>Walking activity which involves walking in water bodies such as swamps.</div>]]></description>
+		<LookAt>
+			<longitude>-80.7043539049817</longitude>
+			<latitude>25.67271781694491</latitude>
+			<altitude>5.508131056714934</altitude>
+			<heading>-10.59302377504442</heading>
+			<tilt>18.22084050947334</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>33704.06842124183</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5D8455793F5E2F922F</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUU1YS9HeVdDcFFacjB6SDRHZkZ5UHhmTFZoVDRYMHB0ZExPdU1JR3d2OVZUMmN1QW9HTDBndVMwMnZhYWhnT3U3N2pudms0UncrYUhVZ3doc0xySjZMZ2lRN3I1VmpPblN6VE43SE9CREJxMUhtdGpOUjM2NFNqVVlENms3NWo3ODc2dFdLdTF3OHVkVUhIQ3IweUlrKzRTRDNTbksxNkxKYklzd0w0NmNReGYySDN2aTEvMUMrM2NQWFBYc1FSVDU4T0NLaHIxbGVJejRQYjRKTVd5UjREUnpnWEdHcHI1ZmZIOVBDNTF5UU9zZlRvMmFVYWdtM29TYUlCbytmMkhqNEE2T1E9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4AE5a_Gy8gN8clk5cAO4mY6ro5owc5PUhaNNaMrhuoT9qt8UYpF0spiGM7AyH0vKNssmmZTCpjorKl0DMIHJVSSYJv4Z8cQ5YWSQdCy7u5TNcEuq-qNph30qJT4H4ETm_prKXwcDFMBJmdSi_6q6WqHrIUhY1Vzx4w3OmAWgJsJB2BAfVOEtVG_n_zZMoNwwVK4tFYA5nibMbBuRtgn4Sthfm4o67nZBVPGjPTq7_hy3vC_8emn-KiFOt3wv6btuapdRx0qf6qZBPdSQDlpA2dkdqXw1uqXAR632FJrmpuQ?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>-80.69283961302496,25.65589190285967,1.714657586568356</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="5C3BDEEDBB000007">
+		<name>Shark Valley Tram Tours</name>
+		<description><![CDATA[<div>A tour on multiple buses that is about 15-miles long.<br></div>]]></description>
+		<LookAt>
+			<longitude>-80.7653095</longitude>
+			<latitude>25.756941</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>940.2361139856581</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5D8455793F5E2F922F</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUU1YS9HdzR3T2dnNEpINUNoZmNLMExBNDQyTzJJeHpFOWZBWW5BcHRDdTRSdDBCaFVZNVYrWG0za1E1RnQ3eVhtbzlVbyt6UUIyaFdxWlY1Sk14ZlE3VVRqUy84MkZRT3Y5ancwalMzYVR5VHR6S2xNd1FXWm5obEFvZXgzdlBzVlBkSEwwMXFlV0FBYWpVajF4cEN5QktpV1hxc1hBSTZsbkJDQ0s0L3pjWHhWRXZ4WC91ai9MOHcxUXFKOStPSzlDTTBGQWZWVFpMQUxSUzM5b01KNVVMaXQyQ1RuNDY2R0JNTnRrZVBDbWxDY0lLU2FhcVpjTWhUdUVMdjh2ZU5qRTF5aVE9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4AE5a_GxQEN2HmPRCMfIdAZPay49kifdRXQDunlcODLJXtgdjtC_dt8Bs-fnHVDI8uADYL2qnTTNXpoZYhLldrUEuczD6XfDSHdli_xGatzvCkDC8yF-erqLnIuO3OW14C_rKEL7Bg6VWp9pTZlDJb2HTR6t-7jiYwSXbfS7waUXAhW8uvgA_ipV233rUqc7VUsk7PiWL0b72e7aOFtpQAy_-uzo734aQ4FuKcxy6KT-heVFrPjnp4ZNIWLvsZYYsqdvzL_fO1Ev6eYJLVrT8gEWqI9J1_UTHybnpUdn5ig?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-80.7653095,25.756941,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="5C3BDEEDBB000008">
+		<name>Ten Thousand Islands</name>
+		<description><![CDATA[<div><span style="color: rgb(31, 31, 31); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline;"><span class="font" style="font-family:&quot;Google Sans&quot;, Roboto, Arial, sans-serif"><span class="size" style="font-size:16px">The Ten Thousand Islands are a chain of islands and mangrove islets off the coast of southwest Florida, between Cape Romano and the mouth of the Lostmans River.<span>&nbsp;</span></span></span></span><br></div>]]></description>
+		<LookAt>
+			<longitude>-81.4817484</longitude>
+			<latitude>25.85871125</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4988.166075550806</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5D8455793F5E2F922F</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUU1YS9HeXdRRzh5WENmem1XZTEyMmR1cEIwZXRzVzRQbXRQMnd3VXhveTUwM3M4U1pyaW13K0lBd3p4bko1bzVXRTU3dm1TanQ3cVFPSzdGemVITXh1RVJRRE9EN3JJS2JEQUxic0ovZERxT1VLY1ZLTHZQbkFyYkVRRWRkWlZ5dVlmaWw3dHpjbWR3bUFUU21HaDBsZVJKWC9XYjliM0FQMm1iUTUxd2t0RkMxYlYveVBIY1N1U0ZzaUVja3hQOGlCKzQyQmpHdEZkN3FVNTlYZVdiVWdXcnFqQUdjSkMrQjFJdm00amNWeG5Dc1VqUWRObGQ3blB4MTV1cEpBRDV2OURkMHc9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4AE5a_GwINxqeaGQQ3pJglwZzcgSTuLyrTAr9sj8vXmd-Ye3ofhG2-U1a6sCNYX1nHL6NmGxPnNMiU0Z9cF143PKLUhZgFODPUclCfknAzT5cLAi4wqisFntQGj040bVRZWAFvvSi2xz_b3_kXmVKLxs1GLQdDHkXK9R4sE7oudwICUOx4HQcQB2s8_qCMJ-t4W-mPB4u15aw_4QGZpHCtxbUEhwGvXxIemgT7LvyH4u7rjyXHVUvl8Q0Hk5Nax0m5Bzw4ZH6frYSSduYvS0O-6aiQ0dJXpWBE5zAp2EBwQ?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-81.4817484,25.85871169999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="5C3BDEEDBB000009">
+		<name>Gumbo Limbo Trail</name>
+		<description><![CDATA[<div>It is a fun trail that loops around vegetation, plants and limbo trees. It takes about 20-30 minutes to complete.</div>]]></description>
+		<LookAt>
+			<longitude>-80.61812239999999</longitude>
+			<latitude>25.380324</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>943.5224078186603</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D5D8455793F5E2F922F</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUU1YS9HdzdBWGwzUDhVYWtMcGxsTHhHWnRoem9oS1pOTSt4RWk3N3dGWWJnMDlJbHlBYkZvSllGTFhBL08xa0tUeGwxZ1Eyb2llbE9RMGFobmxTS2pCZ3BlbWZ2SkdZaE4xNGdsMmJSODJTRHhQQVI4OWlFbmE3ZE1XQjJ3dEZWQzdVOE9acE4xZDg0dk5zcFBrcFNsUHdUajgwNVhXWm4xdk5wTGZBVUtKWS80cEEzdHlZZ1VhZU1CYmgyc0RjWHBzVzdGQVc2dXVDV0I2emM1TVJXYmZPODFLbHRLdUk0SlZCenVpZ3pybmpURDc4YUxwQkZjd1dnK1Y3VGRPQ1hCWG11NUE9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4AE5a_Gwe1t8LWaRQjTn2Iw1QqJiITxuIU7vHLr_Z6kqLg_-JuNnzykQjZCW8myirWPnc16TDxHzSAok53Ou1wc63-C1mAduhPTnkgrCuHzzXXhdYsB8nD9v36xNA0M2K7MtCL36AkbFL1WJs9Se9nsbbXELK0jvB5cOXPVcducTwiZ-5U-sda8bB0COv5efh62M7slvP9xmN0liPG9J9fwQ1SH0h2_tY8Nlz28aQMcMHMsEH5BRXIMZvH_TPxNSvZPWMLGkbywO9KnHuQQbSvrG22sovUpeXhWHJ9cmqaA?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-80.61812239999999,25.380324,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
